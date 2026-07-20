@@ -50,3 +50,5 @@ python main.py
 ## Developed By
 
 Your Name
+
+![image] (https://github.com/R56053/AI-Recommendation-Logic/blob/3ec8524d111e95444ed8fba8635003fd2c3416ab/AI%20Reccommendation%20Logic.png)
